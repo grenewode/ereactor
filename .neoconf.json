@@ -1,0 +1,13 @@
+{
+  "lspconfig": {
+    "rust_analyzer": {
+      "rust-analyzer.check.command": "check",
+      "rust-analyzer.cargo.features": [
+        "tokio"
+      ],
+      "rust-analyzer.check.features": [
+        "tokio"
+      ]
+    }
+  }
+}
